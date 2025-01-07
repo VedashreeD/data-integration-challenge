@@ -61,5 +61,7 @@ If the temperature is between 50°F and 75°F: All products are generally recomm
 4. Restocking Based on Weather:
 The system also checks the stock status of products and recommends which out-of-stock products should be restocked based on weather conditions.
 
-Cold products should be restocked if the temperature is above 75°F.
+5. Cold products should be restocked if the temperature is above 75°F.
 Hot products should be restocked if the temperature is below 50°F.
+
+6. The Weather API can be used by toggling the `USE_API_KEY` in the env file, set due to daily usage limits.
