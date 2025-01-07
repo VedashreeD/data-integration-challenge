@@ -1,0 +1,14 @@
+product_name,our_price,category,stock_status
+Coffee,6.50,Beverages, in-stock
+Green Tea,8.99,Beverages, out-of-stock
+Hot chocolate,7.50,Beverages, in-stock
+Iced Coffee,5.00,Beverages, in-stock
+Scones,5.00,Snack, out-of-stock
+Cinnamon Rolls,4.00,Snack, out-of-stock
+Croissants,3.50,Snack, in-stock
+Bagels,2.50,Snack, in-stock
+Muffins,3.00,Snack, in-stock
+Chocolate Chip Cookies,2.00,Snack, out-of-stock
+Brownies,3.00,Snack, out-of-stock
+Lemonade, 4.00, Beverages, out-of-stock
+hot pudding, 5.00, Snack, out-of-stock
