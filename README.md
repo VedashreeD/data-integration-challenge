@@ -13,22 +13,25 @@
 ## Install Dependencies:
 The required Python packages are listed in requirements.txt. Run the following command to install:
 
-bash
+```
 pip install -r requirements.txt
+```
 
 ### Configure Environment Variables:
 The .env file should contain the API_KEY along with latitude and longitude of the location to fetch weather data:
 
-bash
+```
 LATITUDE=<latitude>
 LONGITUDE=<longitude>
 RAPIDAPI_KEY=<rapidapi_key>
+```
 
 ## Running the Application
 To run the application, execute the following command:
 
-bash
+```
 python src/analysis.py data/products.csv
+```
 
 This will:
 1. Load the product data from the CSV file.
